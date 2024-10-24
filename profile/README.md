@@ -1,3 +1,4 @@
+![Slingshot logo and name on top of a dark blue background](https://raw.githubusercontent.com/slingshotdao/.github/main/profile/logo.jpg)
 # Slingshot
 ### Don't just play, own!
 
