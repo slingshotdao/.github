@@ -1,6 +1,8 @@
 ![Slingshot logo and name on top of a dark blue background](https://raw.githubusercontent.com/slingshotdao/.github/main/profile/logo.jpg)
 # Slingshot
-### Don't just play, own!
+### Bet on the next billion-dollar games with Slingshot, the Roblox AI Game Launcher.
+
+Backed by [@dragonfly_xyz](https://x.com/dragonfly_xyz), [@animocabrands](https://x.com/animocabrands), [@sfermion_](https://x.com/sfermion_), [@Alphabit_fund](https://x.com/Alphabit_fund) & more.
 
 Community owned games, with IP rights, for gamers!
 
